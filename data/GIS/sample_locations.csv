@@ -1,0 +1,6 @@
+﻿Sample_ID,Unit,Basin,Age,Latitude,Longitude,Source
+Orinda Fm (OR24-1; this study),Orinda Formation,Berkeley Hills,Miocene,37.865278,-122.208889,Gerasimov et al.
+Moraga Fm sediments (MV24-1; this study),Lower Moraga ,Berkeley Hills,Miocene,37.865,-122.207222,Gerasimov et al.
+Claremont Fm sandstone (CSUF-4; this study),Claremont Formation,Berkeley Hills,Miocene,37.870556,-122.231944,Gerasimov et al.
+"Orinda Fm (JG-BH5; Gooley et al., 2021)",Orinda Formation,Berkeley Hills,Miocene,37.8621,-122.21089,"Gooley et al., 2021"
+"Briones Fm (JG-BH8; Gooley et al., 2021)",Briones Formation,San Pablo Group,Miocene,37.57064,-121.95305,"Gooley et al., 2021"
