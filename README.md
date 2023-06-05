@@ -1,8 +1,8 @@
-# Chronostratigraphy of Miocene strata in the Berkeley Hills (California Coast Range, USA) and calibration of transform tectonics during Miocene evolution of the San Andreas Fault System
+# Chronostratigraphy of Miocene strata in the Berkeley Hills (California Coast Range, USA) and the arrival of the San Andreas transform boundary
 
 This repository has code and data associated with research on the Miocene stratigraphy of the Berkeley Hills associated with the manuscript:
 
-Chronostratigraphy of Miocene strata in the Berkeley Hills (California Coast Range, USA) and the arrival of the calibration of the San Andreas transform boundary
+Chronostratigraphy of Miocene strata in the Berkeley Hills (California Coast Range, USA) and the arrival of the San Andreas transform boundary
 
 Stacey H. Gerasimov<sup>1</sup>, Eben B. Hodgin<sup>1</sup>, James L. Crowley<sup>2</sup>, Nicholas L. Swanson-Hysell<sup>1</sup>
 
